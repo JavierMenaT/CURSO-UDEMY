@@ -1,0 +1,25 @@
+body{
+    font-family: Tahoma;
+}
+h1{
+    text-align: center;
+}
+nav{
+    padding: 30px;
+    background-color: steelblue;
+    text-align: center;
+    border-radius: 0.5em;
+}
+
+a{
+    color: white;
+    padding: 1em;
+    text-decoration: none;
+    font-size:large;
+    /*border: 1px solid white;*/
+}
+a:hover{
+    color:black;
+    background-color:lemonchiffon;
+    border-radius: 0.25em;
+}
