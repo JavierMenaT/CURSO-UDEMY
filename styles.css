@@ -3,9 +3,10 @@ body{
 }
 h1{
     text-align: center;
+    color:darkslateblue;
 }
 nav{
-    padding: 30px;
+    padding: 20px;
     background-color: steelblue;
     text-align: center;
     border-radius: 0.5em;
@@ -13,7 +14,7 @@ nav{
 
 a{
     color: white;
-    padding: 1em;
+    padding: 0.5em;
     text-decoration: none;
     font-size:large;
     /*border: 1px solid white;*/
@@ -22,4 +23,5 @@ a:hover{
     color:black;
     background-color:lemonchiffon;
     border-radius: 0.25em;
+    transition: 0.5s;
 }
